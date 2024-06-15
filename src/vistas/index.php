@@ -17,7 +17,6 @@ new Header;
 <hr />
 <br>
 <div>
-
     <img src="<?= URL ?>/imagen/Portada_curso.png " alt="">
 </div>
 <?php
