@@ -24,12 +24,12 @@ class  Header
             array('url' => URL . 'src/vistas/funcionVariable.php', 'titulo' => 'Funciones Variables'),
             array('url' => URL . 'src/vistas/parametrosXreferencia.php', 'titulo' => 'Parametros Por Referencia'),
             array('url' => URL . 'src/vistas/argumentos.php', 'titulo' => 'Argumentos'),
-            array('url' => URL . 'src/#', 'titulo' => 'Named Argument'),
-            array('url' => URL . 'src/#', 'titulo' => 'Funciones Anonimas'),
-            array('url' => URL . 'src/#', 'titulo' => 'Arrow fuction'),
-            array('url' => URL . 'src/#', 'titulo' => 'Tipo Scalar'),
-            array('url' => URL . 'src/#', 'titulo' => 'Tipo Devolucion'),
-            array('url' => URL . 'src/#', 'titulo' => 'Fin'),
+            array('url' => URL . 'src/vistas/namedArgument.php', 'titulo' => 'Named Argument'),
+            array('url' => URL . 'src/vistas/funcionesAnonimas.php', 'titulo' => 'Funciones Anonimas'),
+            array('url' => URL . 'src/vistas/arrowFuntion.php', 'titulo' => 'Arrow fuction'),
+            array('url' => URL . 'src/vistas/tipoScalar.php', 'titulo' => 'Tipo Scalar'),
+            array('url' => URL . 'src/vistas/tipoDevolucion.php', 'titulo' => 'Tipo Devolucion'),
+            array('url' => URL . 'src/vistas/fin.php', 'titulo' => 'Fin'),
         ];
 ?>
         <!DOCTYPE html>
